@@ -1,1 +1,2 @@
-[![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/119BmW1B160)
+
+![alt text](https://github.com/weeidl/BookParadise2.0/blob/master/BookParadise.gif)
